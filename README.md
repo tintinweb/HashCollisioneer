@@ -5,6 +5,7 @@ checks a predefined list of names and hash-functions for hash collisions to find
 
 
 Implemented HashFunctions:
+
 1. ELFHash0x10000
 2. ELFHash0xffff
 3. crc16str
